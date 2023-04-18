@@ -1,0 +1,63 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk&display=swap');
+
+.main {
+    width: 100%;
+    height: 100vh;
+    background: url('../images/wall.jpg') center center;
+    background-size: cover;
+
+}
+
+.overlay {
+    width: 100%;
+    height: 100%;
+    display: flex;
+
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.title {
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.col {
+    width: 1000px;
+
+    color: white;
+    display: flex;
+
+    justify-content: center;
+     }
+
+    .col div {
+        width: 250px;
+        text-align: center;
+
+
+
+    }
+
+    input {
+        height: 60px;
+        width: 60%;
+        background-color: rgba(255, 255, 255,0.7);
+        border-radius: 10px;
+        border-color: transparent;
+        text-align: center;
+        font-size: 20px;
+        
+
+
+    }
