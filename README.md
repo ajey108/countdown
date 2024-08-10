@@ -1,6 +1,6 @@
 # Countdown Timer Project
 
-This project is a simple and elegant countdown timer built using HTML, CSS, and JavaScript. The timer counts down to a specified end date and displays the remaining days, hours, minutes, and seconds in a user-friendly interface. The project features a stylish background image, a responsive design, and handles cases where the countdown has already passed.
+This project is a simple and elegant countdown timer built using HTML, CSS, and JavaScript. The timer counts down to a specified end date and displays the remaining days, hours, minutes, and seconds in a user-friendly interface. The project features a stylish background image, a responsive design.
 
 ## Features
 
