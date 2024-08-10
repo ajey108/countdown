@@ -42,14 +42,12 @@ Handling Past Dates: If you prefer not to show negative values, update the clock
 ├── images/
 │   ├── wall.jpg     # Background image
 │   └── screenshot.png # Screenshot of the project (add one if needed)
-└── README.md        # Project README file```
+└── README.md        # Project README file
 
 
 
 
-Contributing
-If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
-Contact
-For any inquiries or issues, feel free to open an issue or contact me via GitHub.
+
+
 
